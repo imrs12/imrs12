@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imrs12
 - 👀 I’m interested in learningand exploring new things.
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Full-Stack and DSA-Java
 
 
 <!---
